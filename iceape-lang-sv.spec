@@ -5,13 +5,13 @@ Summary:	Swedish resources for Iceape
 Summary(pl.UTF-8):	Szwedzkie pliki językowe dla Iceape
 Name:		iceape-lang-%{_lang}
 Version:	1.1.12
-Release:	1
+Release:	2
 License:	GPL
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/seamonkey/releases/%{version}/contrib-localized/seamonkey-%{version}.%{_lare}.langpack.xpi
 # Source0-md5:	b2a86a403be571a03102ba2483b7165f
-Source1:	http://www.mozilla-enigmail.org/download/release/0.95/enigmail-%{_lare}-0.95.xpi
-# Source1-md5:	237d8d4cef7a5a5bb2ec99c08cdc1c95
+Source1:	http://www.mozilla-enigmail.org/download/release/0.96/enigmail-%{_lare}-0.96.xpi
+# Source1-md5:	e3e957364b8bef421c5e8eb9a8a63c4d
 Source2:	gen-installed-chrome.sh
 URL:		http://www.seamonkey-project.org/
 BuildRequires:	unzip
